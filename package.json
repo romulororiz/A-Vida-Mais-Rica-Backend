@@ -12,7 +12,9 @@
     "mongoose": "^6.3.5",
     "pg": "^8.7.3",
     "pg-connection-string": "^2.5.0",
-    "slugify": "^1.6.5"
+    "slugify": "^1.6.5",
+    "strapi-plugin-rest-cache": "^4.2.4",
+    "strapi-provider-rest-cache-memory": "^4.2.4"
   },
   "name": "backend",
   "private": true,
